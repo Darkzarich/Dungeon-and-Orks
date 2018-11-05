@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1448822793 source:f:\programming\Ñ++\game_pikabu_post\game5\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+
+1449039375 source:d:\programming\Ñ++\game_pikabu_post\game5\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<ctype.h>
+	<string.h>
+	"consoleColor.h"
+	"level.h"
+	"weaponType.h"
+	"unitType.h"
+	"unitData.h"
+
+1448829717 d:\programming\Ñ++\game_pikabu_post\game5\consolecolor.h
+
+1449036926 d:\programming\Ñ++\game_pikabu_post\game5\level.h
+	"consoleColor.h"
+
+1449025133 d:\programming\Ñ++\game_pikabu_post\game5\weapontype.h
+	"level.h"
+
+1448930339 d:\programming\Ñ++\game_pikabu_post\game5\unittype.h
+	"level.h"
+	"weaponType.h"
+
+1448832242 d:\programming\Ñ++\game_pikabu_post\game5\unitdata.h
+	"unitType.h"
+	"weaponType.h"
+
